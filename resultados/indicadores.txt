@@ -1,0 +1,4 @@
+=== INDICADORES CLIMÁTICOS GLOBALES ===
+Temperatura promedio global: 0.0052 °C
+Temperatura máxima registrada: 1.4800 °C
+Temperatura mínima registrada: -1.0400 °C
